@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,6EAAI",
+    "sources": [
+        "index_style.scss"
+    ],
+    "names": [],
+    "file": "index_style.css"
+}

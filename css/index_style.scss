@@ -43,9 +43,9 @@ li.dropdown {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: rgba(160, 23, 23);
+  background-color: rgb(160, 23, 23);
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px rgba(19, 18, 18, 0.2);
   z-index: 1;
 }
 
@@ -67,4 +67,5 @@ li.dropdown {
 	border-width: 2px;
   border-color: red;
   border-style: dashed;
+	margin: 0 auto;
 }

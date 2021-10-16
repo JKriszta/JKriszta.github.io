@@ -64,8 +64,7 @@ li.dropdown {
 }
 
 .container {
-	margin: 0 auto;
-	max-width: 1200px;
-	height: 800px;
-	border: 1px solid black;
+	border-width: 2px;
+  border-color: red;
+  border-style: dashed;
 }
